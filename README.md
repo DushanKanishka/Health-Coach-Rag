@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e35afa1a-6605-4c21-b47f-4d4d4118cb56
+
 # 🩺 Digital Health Coach — Intelligent Health Chatbot
 
 A hybrid health coaching assistant that predicts a user's **fatigue risk**
@@ -10,24 +14,13 @@ learning, vector search, and a large language model in a single Streamlit
 application.
 
 ---
-
 ## 📹 Demo
 
-<!--
-Record 60-90 seconds showing: the app loading, entering habits in free
-text, the fatigue prediction appearing, and the coach's grounded answer.
 
-Then edit this README on github.com and DRAG the .mp4 into the editor.
-GitHub uploads it and inserts a user-attachments link that plays inline.
-Committing an .mp4 into the repo does NOT work - it renders as a
-download link, not a player.
 
-Limit: 10MB on free accounts. If yours is bigger, either compress it or
-upload to YouTube as Unlisted and use:
-[![Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
--->
+https://github.com/user-attachments/assets/8b5bfff0-7bce-41f0-b74e-e7f12b1f6272
 
-*Demo video goes here.*
+
 
 ---
 
