@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/e35afa1a-6605-4c21-b47f-4d4d4118cb56
-
 # 🩺 Digital Health Coach — Intelligent Health Chatbot
 
 A hybrid health coaching assistant that predicts a user's **fatigue risk**
