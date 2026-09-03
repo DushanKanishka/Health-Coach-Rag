@@ -55,7 +55,7 @@ to invent the substance of it.
 
 ## 🏗️ Architecture
 
-![System workflow](assets/health-coach-workflow.png)
+!(assets/health-coach-workflow.png)
 
 The system runs on two distinct timelines, which is the key thing to
 understand about it:
